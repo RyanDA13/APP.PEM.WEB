@@ -21,6 +21,6 @@
         </style>
     <head>Laravel</head>
     
-        selamat datang di aplikasi laravel perdananku
+        selamat datang di aplikasi laravel perdananku Ryan Dwi Agustian Nim : 1123100341
     </body>
 </html>
